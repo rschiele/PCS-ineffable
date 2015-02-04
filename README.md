@@ -1,10 +1,11 @@
-
+<!DOCTYPE html>
+<!-- 
 # PCS-ineffable
 Team Ineffable PCS Project
 Hi, Its George!
 
 This is a Test!
-
+ -->
 <html>
 
 <head>

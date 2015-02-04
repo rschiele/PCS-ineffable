@@ -1,0 +1,23 @@
+rubDown.css	
+
+section {
+  height: 200px;
+    width: 300px;
+  border: 1px solid green;
+  margin: 20px;
+}
+
+li {
+  display: inline;
+  margin: 0 20px;
+}
+
+nav {
+  background-color: lightgray;
+  padding: 5px;
+    margin: 0;
+}
+
+.clearSpacer { 
+height: 80px;
+}
